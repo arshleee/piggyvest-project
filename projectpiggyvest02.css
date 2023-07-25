@@ -1,0 +1,46 @@
+body{
+    background-color: #062863;
+    margin: 200px 100px;
+}
+strong{
+    color: #062863;
+    font-size: 20px;
+}
+.ay{
+    background-color:  white;
+	width: 270px; 
+	height: 550px;
+	border-radius: 10px 10px 10px 0px;
+}
+.tunms{
+    color: white;
+}
+.createaccount{
+    height: 35px;
+    width: 200px;
+    background-color: #0d60d8;
+    border-radius: 10px 10px 10px 0px;
+    color: white;
+}
+.mid{
+    height: 35px;
+    width: 200px;
+}
+.mum {
+    font-size: 11.2px;
+}
+a {
+    color: white;
+}
+span{
+    color: white;
+}
+form{
+    font-family: "U8-Regular";
+    src: url("https://db.onlinewebfonts.com/t/7017698b5c5a2cc397cd3b0c0984d76f.eot");
+    src: url("https://db.onlinewebfonts.com/t/7017698b5c5a2cc397cd3b0c0984d76f.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/7017698b5c5a2cc397cd3b0c0984d76f.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/7017698b5c5a2cc397cd3b0c0984d76f.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/7017698b5c5a2cc397cd3b0c0984d76f.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/7017698b5c5a2cc397cd3b0c0984d76f.svg#U8-Regular")
+}
